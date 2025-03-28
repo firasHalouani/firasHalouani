@@ -58,10 +58,6 @@ I am completely passionate about frontend backend development .
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=firasHalouani&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=firasHalouani&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=firasHalouani)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasHalouani&&theme=algolia" alt="firasHalouani" /></p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=firasHalouani&theme=react)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
