@@ -73,15 +73,9 @@ I am completely passionate about frontend backend development .
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=firasHalouani&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/firasHalouani/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=firasHalouani&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/firasHalouani/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 Credit: [Firas Halouani](https://github.com/firasHalouani) 
 
-Last Edited on: 03/09/2024
+Last Edited on: 28/03/2025
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
