@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hey , I'm Firas Halouani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Firas+Halouani..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Firas+Halouani..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <!--
@@ -27,12 +27,10 @@ I am completely passionate about frontend backend development .
 [![Mail Badge](https://img.shields.io/badge/-firasHalouani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:firashalouani270@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/firasHalouani?style=social)
-[![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=firasHalouani.firasHalouani)-->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=firasHalouani)
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
 
 
 <!-- Ligne  -->
@@ -47,7 +45,7 @@ I am completely passionate about frontend backend development .
 
 
 <!-- Skills  -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24"><b> Skills</b>
 <br>
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -105,7 +103,7 @@ Last Edited on: 03/09/2024
         </p>
     <br>
 
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="24"><b> Trophies</b>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=firasHalouani&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 
